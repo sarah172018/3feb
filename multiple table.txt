@@ -1,0 +1,6 @@
+var a =5;
+for(i=1;i<=a;i++)
+  {
+    var c=i*a;
+    document.write(i,"*",a,"=",c+"<br>");
+  }
